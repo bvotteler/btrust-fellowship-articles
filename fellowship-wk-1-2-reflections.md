@@ -1,5 +1,5 @@
 # Fellowship Lessons I: Bitcoin Protocol Development
-The goal of this article is to give a glimpse into what the frist 2 weeks of the [Btrust](https://www.btrust.tech/) Open Source Fellowship looks like.
+The goal of this article is to give a glimpse into what the first 2 weeks of the [Btrust](https://www.btrust.tech/) Open Source Fellowship looks like.
 It is my first-hand account of going through it in late 2026.
 
 ## What is the Open Source Fellowship?
@@ -10,7 +10,7 @@ In my case, I qualified by graduating in the 2026 cohort for the [Rust for Bitco
 
 ## The First Weeks: Studying The Basics
 Weeks 1 & 2 are dominated by reading. And a lot of it.  
-The goal is to deepen our knowledge in the fundamentals of Bitcoin going as far back as the whitepaper, some of the history of Bitcoin development, the various types of nodes, and basics around the security model. This is further fleshed out with studying the innovations SegWit brought to upgradeability, then learning about mining and network propagation. And towards the tail end of the first 2 weeks, we learn about scripts and wallets.
+The goal is to deepen our knowledge in the fundamentals of Bitcoin going as far back as the whitepaper, some of the history of Bitcoin development, the various types of nodes, and basics around the security model. This is further fleshed out with studying the innovations SegWit brought to Bitcoin (both in fixing TXID malleability and also better upgrade options in future), and learning about mining and network propagation. Finally, towards the tail end of the first 2 weeks, we learn about scripts and wallets.
 
 ## The Structure
 The material itself is, quite fittingly, [entirely open source](https://github.com/chaincodelabs/seminars) and provided by Chaincode Labs. The fellowship provides the setting around it where we are grouped together with like-minded Bitcoin devs-in-training so we can share the experience of learning the material together.
