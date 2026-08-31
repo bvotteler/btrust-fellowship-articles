@@ -6,7 +6,7 @@ It is my first-hand account of going through it in late 2026.
 Btrust's Open Source Fellowship follows is an accelerated program to get top graduates from Btrust's pathways to deepen their understanding of Bitcoin and, eventually, work on real Bitcoin open-source projects.  
 The duration of the fellowship program is 12 weeks at the time of writing.
 
-In my case, I qualified by graduating in the 2026 cohort for the [Rust for Bitcoiners](https://pathways.btrust.tech/03/rust-for-bitcoiners) pathway. This was only one of several pathways. If you are interested in becoming a Bitcoin open source dev, I can only encourage you to explore the possible pathways in the [Btrust Builders program](https://www.btrust.tech/builders).
+In my case, I qualified by graduating in the 2026 cohort for the [Rust for Bitcoiners](https://pathways.btrust.tech/03/rust-for-bitcoiners) pathway. This was only one of several pathways. If you are interested in becoming a Bitcoin open source dev, I can only encourage you to explore the options the [Btrust Builders program](https://www.btrust.tech/builders) has on offer.
 
 ## The First Weeks: Studying The Basics
 Weeks 1 & 2 are dominated by reading. And a lot of it.  
