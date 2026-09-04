@@ -59,4 +59,4 @@ So far, this program has been a challenge in deepening my understanding of Bitco
 It's an eye-opener to chat through my perceptions of some technical text, forcing me to think more clearly to be able to articulate those thoughts. And in the same session, I get to hear how another fellow sees the very same text and comes away with some unique thoughts on a facet I hadn't even paid much attention to.
 
 That range of perspectives from people who are continuing to study Bitcoin just as I am provided a lot of food for thought to revisit ideas I had formed over time.  
-So, while I may stress the "a lot" bit when reading, well, *a lot*, it is well worth it because the program itself makes sure we also talk and think about it... yes, you guessed it: *A lot*. And I am looking forward in exploring more options of preserving privacy with existing and new ideas in the ecosystem.
+So, while I may stress the "a lot" bit when reading, well, *a lot*, it is well worth it because the program itself makes sure we also talk and think about it... yes, you guessed it: *A lot*.
