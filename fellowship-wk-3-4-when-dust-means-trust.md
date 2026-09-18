@@ -1,4 +1,4 @@
-# Lightning Micro-payments: When Dust Means Trust
+# Lightning Payments: When Dust Means Trust
 Lightning's goal is to enable economical small payments when compared to its base layer while retaining that layer's security properties by settling on-chain.  
 As we would expect, that requires some trade-offs. Let's look at one of those aspects: Why spending small amounts (aka. dust) requires trust. Let's start at the base layer.
 
