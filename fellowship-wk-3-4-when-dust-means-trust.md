@@ -12,7 +12,7 @@ In effect, the dust limit for bitcoin-core is calculated as:
 `dust = (input_vsize + output_size) × 3 sat/vB`
 For more details see [this stackexchange answer](https://bitcoin.stackexchange.com/a/41082) by Murch.
 
-In the code itself, this is represented by using a parameter `-dustrelayfee` argument which [defaults](https://github.com/bitcoin/bitcoin/blob/0e9018e8b65611b0769545e177110e4b7fc51244/src/policy/policy.h#L68) to `3000` since the parameter is kept in `sats/kvB` (Sats per kilo-vByte).  
+In the code itself, this is represented by using a parameter `-dustrelayfee` argument which [defaults](https://github.com/bitcoin/bitcoin/blob/0e9018e8b65611b0769545e177110e4b7fc51244/src/policy/policy.h#L68) to `3000` since the parameter is kept in `sats/kvB` (Sats per *kilo*-vByte, therefore, `3 sat/vB = 3000 sat/kvB`).  
 Take note that this is not calculated from current market fees, but a fixed assumption of fees of about `1 sat/vB` and then the cost should not be more than a third of the value of the UTXO.
 
 ## Bitcoin's Incentive: More Fees Over Time
