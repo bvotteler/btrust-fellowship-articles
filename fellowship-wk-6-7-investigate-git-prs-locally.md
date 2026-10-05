@@ -49,7 +49,7 @@ git remote add upstream <repository_URL>
 Depending on our GitHub auth preference, we replace `<repository_URL>` with either the SSH or HTTPS path (sticking with bitcoin as example):
 
 * SSH Path: `git@github.com:bitcoin/bitcoin.git`
-* HTTPS Path: `https://github.com`
+* HTTPS Path: `https://github.com/bitcoin/bitcoin.git`
 
 Again, GitHub have their own docs with more information on [working with remotes](https://docs.github.com/en/get-started/git-basics/managing-remote-repositories).
 
