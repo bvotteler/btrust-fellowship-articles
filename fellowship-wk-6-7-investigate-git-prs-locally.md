@@ -1,4 +1,4 @@
-# Git Command to Investigate Open-Source Pull Requests
+# Checking Out Pull Requests Locally with Git
 
 When getting into open-source development, the usual recommendation is to look for issues tagged as "good first issue."
 However, in some projects (such as Bitcoin Core), issues aren't necessarily labeled in that way.
