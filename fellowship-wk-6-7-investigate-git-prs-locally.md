@@ -5,7 +5,7 @@ However, in some projects (such as Bitcoin Core), issues aren't necessarily labe
 
 Another good starting point then is to review pull requests (PRs). As a reviewer, you want to look into the proposed code change and ask yourself and the author some critical questions to help maintainers decide which PRs are ready to be merged, and which maybe need more work.
 
-In this article I am focusing on how I prefer to check out pull requests to run the code and test them locally. But there is of course more to say about the review process. I will provide links for further reading by Bitcoin Core contributors further below. If you're not into Bictoin Core, their insight is still valuable as it is one of the most decentralized open-source codebases out there. They are living it and are seeing what works and what does not.
+In this article I am focusing on how I prefer to check out pull requests to run the code and test them locally. But there is of course more to say about the review process. I will provide links for further reading by Bitcoin Core contributors further below. If you're not into Bitcoin Core, their insight is still valuable as it is one of the most decentralized open-source codebases out there. They are living it and are seeing what works and what does not.
 
 ## What is the Goal?
 To know where I'm going here, let's take a look at the end. The goal is to run local inspection commands like these:
