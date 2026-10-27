@@ -1,6 +1,6 @@
 # Privacy Limits of Silent Payments
 
-## Intro
+## Introduction
 Silent Payments can be public without making every donation public knowledge. At times, the hype forgets to mention the limits of that privacy.  
 In this article, I will try to explain why the privacy doesn’t automatically follow the received sats when they’re spent.
 
