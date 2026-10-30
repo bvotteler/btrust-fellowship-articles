@@ -4,7 +4,7 @@
 Silent Payments can be public without making every donation public knowledge. At times, the hype forgets to mention the limits of that privacy.  
 In this article, I will try to explain why the privacy doesn’t automatically follow the received sats when they’re spent.
 
-I assume basic knowledge of how Silent Payments work. See [this article](https://silentpayments.xyz/docs/explained/), or [Satsie's zine](https://satsie.dev/zines/silentpayments.html) for a brief overview or as refresher.
+I assume basic knowledge of how Silent Payments work. See [this article](https://silentpayments.xyz/docs/explained/) or [Satsie's zine](https://satsie.dev/zines/silentpayments.html) (if you prefer visuals) for an overview.
 
 ## Why Silent Payments
 The [motivation for BIP 352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki#motivation) says in its opening sentence:
