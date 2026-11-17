@@ -45,8 +45,8 @@ The most impact I, as budding fresh contributor, could have was by trying to rev
 A program such as the fellowship cannot possibly build a framework matching the nature of all open source projects. But the must try in order to be able to gauge success in some way.  
 One of these requirements was being able to show a claimed issues and PRs that were raised against it. Naturally, in an environment BDK finds itself in, that was a long shot to begin with. But also under more normal circumstances, a new contributor cannot expect to have an issue claimed and PR merged in a matter of two weeks. Consider Bitcoin core. PRs frequently take a very long time, and a lot of rightful scrutiny before it moves.
 
-To be clear: This is no know against the program trying to measure success. It has to be done, but the reality is also that it is probably impossible to do holistically without producing a handbook that in itself would take 12 weeks to work through.  
-The other side of the coin is equally true though. It does add pressure onto fellows to scrap and scratch and fight for an issue, any issue, to be able to claim and raise a PR. That was a very frustrating aspect of the final weeks: Spending hours upon hours trying to unearth an issue that satisfy multiple criteria.
+To be clear: This is no knock against the program trying to measure success. It has to be done and it is probably impossible to do that holistically without producing a handbook that in itself would take 12 weeks to work through. It makes sense to try and measure issues worked on and the PRs doing that.  
+But it's also true that it adds pressure for fellows to scrap and scratch and fight for an issue, any issue, to be able to claim and raise a PR. That was a very frustrating aspect of the final weeks: Spending hours upon hours trying to unearth an issue that satisfy multiple criteria.
 
 First, it needs to be "meaty" enough. Something that touches actual code, and makes a meaningful change.  
 Then it also needs to have high enough priority to have a chance of attracting eyeballs from key contributors and maintainers.
