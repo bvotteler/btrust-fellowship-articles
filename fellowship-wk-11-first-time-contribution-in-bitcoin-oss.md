@@ -6,20 +6,20 @@ Reflecting on my journey so far is part of the program and this article forms pa
 
 ## Start at the Beginning
 I have been a software developer for a few decades. Without dating myself too easily, I started when PHP was still something devs got excited about.  
-But even so, I only really started paying attention Bitcoin around five years ago, though I heard the name earlier (probably during its rise in 2017 and subsequent crash.) It took until then to realize it was alive and doing well despite what media had suggested before: that it was most definitely not alive, but very, very dead indeed.
+But even so, I only really started paying attention to Bitcoin around five years ago, though I heard the name earlier (probably during its rise in 2017 and subsequent crash.) It took some time to realize it was alive and doing well despite what media had suggested before: that it was most definitely not alive, but in fact, very, very dead.
 
-It took me another year to take the time necessary to study it more. I liked what I saw, liked what I learned about it, and really liked the philosophy behind it. I then took my first tiny steps in buying a little bit.
+It took me another year to take the time necessary to study it. I liked what I saw, liked what I learned about it, and really liked the philosophy behind it. I then took my first tiny steps by buying a little bit.
 
 ## Discovering Decentralization and the Meaning of Permissionless
-Same as so many others, I started buying Bitcoin with the idea of seeing that number on a chart go up. As I learned more about the history and ethos behind it, I came across the concepts that kept me in this space ever since: decentralization and Bitcoin being permissionless.  
+Same as so many others, I started buying Bitcoin with the idea of seeing that number on a chart go up. With more time spent on the history and ethos behind it, I came across the concepts that kept me in this space ever since: decentralization and Bitcoin being permissionless.  
 The fact that anyone can send value without needing a bank to allow it (something I ran into before) was just... wild. And how on earth could that work when there's no central authority? Those questions and searching for answers to them is what kept me engaged.
 
 Over time, I stopped looking at charts and started looking at where and how I could pay for things with Bitcoin. I firmly believe in spending and replacing to both support merchants that accept Bitcoin, as well as strengthening the network so, one day, if people really need to rely on the permissionlessness for reasons outside of their control, the infrastructure is there to accept them with open arms.
 
 When your currency fails you, it doesn't matter if it's because the government targeted you, if the entire system is broken, or your behavior just made a bank's alert system notice you and freeze your funds. (Of course only for your own safety.)  
-That is when Bitcoin's permissionless nature matters most. And I want the merchants accepting it to be there. Well-supported and thriving. Therefore, I strongly believe in using Bitcoin for payments wherever it is accepted.
+That is when Bitcoin's permissionless nature matters most. And I want the merchants accepting it to be there. Well-supported and thriving. Therefore, I use Bitcoin for payments wherever it is accepted.
 
-By extension of that, I also started looking into applying my skills to help Bitcoin, the network, succeed. To put it in Jeff Booth's words: move more of my time and effort into Bitcoin and out of legacy systems.
+As extension of that, I also started looking into applying my skills to help Bitcoin, the network, succeed. To put it in Jeff Booth's words: move more of my time and effort into Bitcoin and out of legacy systems.
 
 ## Where to Start Contributing When You Don't Even Know Where to Begin?
 Entering Bitcoin open source is intimidating. Even for a developer "veteran" like me. The knowledge is very specific, the stakes are usually very high, and maintainers and reviewers are (rightfully) very diligent.  
