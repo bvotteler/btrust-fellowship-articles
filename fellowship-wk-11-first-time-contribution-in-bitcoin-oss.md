@@ -22,14 +22,14 @@ That is when Bitcoin's permissionless nature matters most. And I want the mercha
 As extension of that, I also started looking into applying my skills to help Bitcoin, the network, succeed. To put it in Jeff Booth's words: move more of my time and effort into Bitcoin and out of legacy systems.
 
 ## Where to Start Contributing When You Don't Even Know Where to Begin?
-Entering Bitcoin open source is intimidating. Even for a developer "veteran" like me. The knowledge is very specific, the stakes are usually very high, and maintainers and reviewers are (rightfully) very diligent.  
-I learned that the feeling of being inadequately prepared is the new normal. It took me months of learning to understand and accept that feeling will stay. I am still working on convincing myself that it is okay. My head knows it, but it usually only comes second to feelings of inadequacy regardless of how irrational they can be.  
-To help overcome that, I started looking for programs specifically geared toward a gentle introduction to Bitcoin open source. That search led me to discover Btrust eventually, but not without extra steps.
+Entering Bitcoin open source is intimidating. Even for a developer "veteran" like me. The knowledge is specific, the stakes are usually high, and maintainers and reviewers are (rightfully) very diligent.  
+The feeling of being inadequately prepared became a new normal. It took me months to recognize that the feeling will stay. I am still working on convincing myself that it is okay. My head knows it, but it usually only comes second to feelings of inadequacy regardless of how irrational they can be.  
+To help overcome that, I started looking for programs specifically geared toward a gradual introduction to the Bitcoin open source ecosystem. That search eventually brought me to Btrust, but not without extra steps.
 
 My first attempt was taking part in the [BOSS Challenge](https://bosschallenge.xyz/). While I managed to qualify, I soon realized I was in too deep and dropped out to study more. Yes, it stung a bit to not complete, but then again, I now had a lot more knowledge about where my gaps were. With what I know today, I'm impressed and even a bit proud about "past me" for having qualified by completing [Saving Satoshi](https://savingsatoshi.com/).
 
-Armed with more knowledge about gaps, I entered a better starting challenge: a Lightning Dev Bootcamp by [Africa Free Routing](https://freerouting.africa/). This event was co-hosted by Btrust and that is where I was first formally introduced to them and their mission. After completion, I even met a few more Btrust members at a local conference.  
-What followed was firming up what I've learned before with Btrust's [Rust for Bitcoiners](https://pathways.btrust.tech/03/rust-for-bitcoiners) pathway. This was the first time concepts started to come back to me more easily. All those "reps" slowly started showing signs.  
+Armed with more knowledge about gaps, I entered a better starting challenge: a Lightning Dev Bootcamp by [Africa Free Routing](https://freerouting.africa/). This event was co-hosted by Btrust and, therefore, my first formal introduction to the organization. After completion, I even met a few more Btrust members at a local conference.  
+The nest stage was firming up what I've learned before with Btrust's [Rust for Bitcoiners](https://pathways.btrust.tech/03/rust-for-bitcoiners) pathway. During it, I noticed concepts started to come back to me more easily. All those "reps" started showing an effect.  
 At the end of Rust for Bitcoiners, I was delighted to receive an invitation to apply for Btrust's Open Source Fellowship. I jumped at it, made the cut, and spent the past three months getting in shape for contributions to Bitcoin projects.
 
 ## Trying to Contribute
